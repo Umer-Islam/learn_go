@@ -12,4 +12,7 @@ func main() {
 	fmt.Println(isStatus);
 	fmt.Printf("variable is of type: %T",isStatus)
 
+
+	
+
 }
